@@ -6,3 +6,4 @@ nltk
 python-dotenv
 PyYAML
 dvc
+dvclive
