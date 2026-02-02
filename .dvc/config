@@ -1,0 +1,4 @@
+[core]
+    remote = devstore
+['remote "devstore"']
+    url = s3://umstore
